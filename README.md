@@ -28,5 +28,13 @@ Excel (for initial data preprocessing)
 5. Customer vs. Driver Ratings
 6. Getting Started
 
-# Dashboard Screenshots
-![imgae_alt]([image_url](https://github.com/tanshigarg/Ola-Analysis/blob/753f2013a5d5dc0024b15ce54a6d4ee3767f6da9/ola%20dashboard%201.png))
+# Dashboard 
+![dashboard report 1](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%201.png)
+
+![dashboard report 2 ](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%202.png)
+
+![dashboard report 3](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%203.png)
+
+![dashboard report 4](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%204.png)
+
+![dashboard report 5](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%205.png)
