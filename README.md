@@ -2,10 +2,10 @@
 The OLA Data Analyst Project analyzes ride-hailing data from OLA to identify trends, customer behavior, and business performance. The dataset includes 20,000 records from Bengaluru, covering booking status, vehicle types, ride distance, cancellations, and ratings.
 
 # Features
-SQL Analysis: Extracts meaningful insights from ride data using SQL queries.
-Power BI Visualization: Creates dashboards to visualize ride trends, cancellations, revenue, and customer satisfaction.
-Data Cleaning & Processing: Ensures data integrity with structured and optimized datasets.
-Business Insights: Helps understand ride patterns, cancellation reasons, and revenue drivers.
+1. SQL Analysis: Extracts meaningful insights from ride data using SQL queries.
+2. Power BI Visualization: Creates dashboards to visualize ride trends, cancellations, revenue, and customer satisfaction.
+ Data Cleaning & Processing: Ensures data integrity with structured and optimized datasets.
+ Business Insights: Helps understand ride patterns, cancellation reasons, and revenue drivers.
 
 # Technologies Used
 1. My SQL
