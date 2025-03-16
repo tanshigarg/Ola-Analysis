@@ -12,6 +12,9 @@ Business Insights: Helps understand ride patterns, cancellation reasons, and rev
 2. Power BI
 3. Excel (for initial data preprocessing)
 
+# Dataset Used
+[dataset](https://github.com/tanshigarg/Ola-Analysis/blob/ecc06033ad8d74961071e952992b41277c0fde2c/Bookings.csv)
+
 # SQL Queries
 1. Retrieve all successful bookings
 2. Find the average ride distance per vehicle type
