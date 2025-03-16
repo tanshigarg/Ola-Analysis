@@ -29,4 +29,4 @@ Excel (for initial data preprocessing)
 6. Getting Started
 
 # Dashboard Screenshots
-![imgae_alt]([image_url](https://github.com/tanshigarg/Ola-Analysis/blob/753f2013a5d5dc0024b15ce54a6d4ee3767f6da9/ola%20dashboard%201.png))
+![imgae_alt]([image_url](https://github.com/tanshigarg/Ola-Analysis/blob/753f2013a5d5dc0024b15ce54a6d4ee3767f6da9/ola%20dashboard%201.png)
