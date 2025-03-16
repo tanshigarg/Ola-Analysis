@@ -8,9 +8,9 @@ Data Cleaning & Processing: Ensures data integrity with structured and optimized
 Business Insights: Helps understand ride patterns, cancellation reasons, and revenue drivers.
 
 # Technologies Used
-My SQL
-Power BI
-Excel (for initial data preprocessing)
+1. My SQL
+2. Power BI
+3. Excel (for initial data preprocessing)
 
 # SQL Queries
 1. Retrieve all successful bookings
