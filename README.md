@@ -23,7 +23,7 @@ This repository contains an in-depth analysis of **Ola ride bookings** using **S
 
 ## Files Included
 
-- **`ola_booking_analysis.sql`** – Contains all SQL queries used for data extraction and transformation.
+- **`ola_booking_analysis.sql`** – [Ola Booking Analysis SQL File](https://github.com/your-username/Ola-Booking-Analysis/blob/main/ola_booking_analysis.sql)
 - **`ola project complete.pbix`** – Power BI report with interactive dashboards.
 
 ## Conclusion
