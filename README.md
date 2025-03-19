@@ -24,8 +24,7 @@ This repository contains an in-depth analysis of **Ola ride bookings** using **S
 ## Files Included
 [
 - **`ola_booking_analysis.sql`** – [Ola Booking Analysis SQL File](https://github.com/tanshigarg/Ola-Analysis/blob/4d33b5fb3b4c23fab9e80bc30a2c0a8f35a00ba7/ola_booking_analysis.sql)
-- **`ola project complete.pbix`** – Power BI report with interactive dashboards.
-
+- **`ola project complete.pbix`** – [Ola Project Power BI Report](https://github.com/your-username/Ola-Booking-Analysis/blob/main/ola_project_complete.pbix)
 ## Conclusion
 
 This analysis provides valuable insights into Ola's booking patterns, peak hours, and customer preferences. Businesses can use this data to improve ride availability, pricing strategies, and customer retention.
