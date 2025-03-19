@@ -22,8 +22,8 @@ This repository contains an in-depth analysis of **Ola ride bookings** using **S
 - Corporate bookings account for **40% of the total revenue**, highlighting business users as a key segment.
 
 ## Files Included
-
-- **`ola_booking_analysis.sql`** – [Ola Booking Analysis SQL File](https://github.com/your-username/Ola-Booking-Analysis/blob/main/ola_booking_analysis.sql)
+[
+- **`ola_booking_analysis.sql`** – [Ola Booking Analysis SQL File](https://github.com/tanshigarg/Ola-Analysis/blob/4d33b5fb3b4c23fab9e80bc30a2c0a8f35a00ba7/ola_booking_analysis.sql)
 - **`ola project complete.pbix`** – Power BI report with interactive dashboards.
 
 ## Conclusion
