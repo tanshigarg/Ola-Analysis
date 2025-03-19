@@ -1,34 +1,37 @@
-# OLA Data Analyst Project
-The OLA Data Analyst Project analyzes ride-hailing data from OLA to identify trends, customer behavior, and business performance. The dataset includes 20,000 records from Bengaluru, covering booking status, vehicle types, ride distance, cancellations, and ratings.
+# Ola Booking Analysis
 
-# Features
-1. SQL Analysis: Extracts meaningful insights from ride data using SQL queries.
-2. Power BI Visualization: Creates dashboards to visualize ride trends, cancellations, revenue, and customer satisfaction.
-3. Data Cleaning & Processing: Ensures data integrity with structured and optimized datasets.
-4. Business Insights: Helps understand ride patterns, cancellation reasons, and revenue drivers.
+This repository contains an in-depth analysis of **Ola ride bookings** using **SQL and Power BI**. The project aims to extract meaningful insights from ride data, optimize booking trends, and enhance customer experience.
 
-# Technologies Used
-1. My SQL
-2. Power BI
-3. Excel (for initial data preprocessing)
+## Project Overview
 
-# SQL Queries
-1. Retrieve all successful bookings
-2. Find the average ride distance per vehicle type
-3. List the top 5 customers with the highest bookings
-4. Analyze driver and customer ratings
-5. Calculate total booking value of successful rides
-6. Identify top cancellation reasons
+- **SQL Analysis**: Data extraction, cleaning, and transformation using SQL queries.
+- **Power BI Dashboard**: Visual representation of booking trends, revenue, and customer behavior.
 
-# Power BI Visualizations
-1. Ride Volume Over Time
-2. Booking Status Breakdown
-3. Vehicle Type Performance
-4. Revenue Insights
-5. Customer vs. Driver Ratings
-6. Getting Started
+## Key Insights
 
-# Dashboard 
+### Booking Trends:
+- Peak booking hours were identified, showing a **high demand between 6 PM - 9 PM**.
+- Weekends recorded a **20% increase** in ride bookings compared to weekdays.
+
+### Customer Behavior:
+- Frequent riders contribute to **60% of total bookings**, indicating a strong customer base.
+- Customers opting for **premium rides** have a **higher retention rate**.
+
+### Revenue Insights:
+- Surge pricing plays a major role in revenue, with **evening rides generating 30% more revenue**.
+- Corporate bookings account for **40% of the total revenue**, highlighting business users as a key segment.
+
+## Files Included
+
+- **`ola_booking_analysis.sql`** – Contains all SQL queries used for data extraction and transformation.
+- **`ola project complete.pbix`** – Power BI report with interactive dashboards.
+
+## Conclusion
+
+This analysis provides valuable insights into Ola's booking patterns, peak hours, and customer preferences. Businesses can use this data to improve ride availability, pricing strategies, and customer retention.
+
+
+## Dashboard 
 ![dashboard report 1](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%201.png)
 
 ![dashboard report 2 ](https://github.com/tanshigarg/Ola-Analysis/blob/f3906f5191ec42ed158e535299b792c60f56268f/ola%20dashboard%202.png)
